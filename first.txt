@@ -1,1 +1,1 @@
-i am abhijeet and i like chicken. This is my first commit.
+i am abhijeet and i don't like chicken. This is my first commit.
